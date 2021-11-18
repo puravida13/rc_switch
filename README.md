@@ -1,5 +1,5 @@
 # rc_switch
-Attiny 85 RC remote switch code.  Created on arduino ide and deployed on attiny85.  It basically reads the RC receiver pwm value.  Based on conditions, it turns on and off two seperate outputs via MOSFETS.
+Attiny 85 RC remote switch code.  Created on arduino ide and deployed on attiny85.  It basically reads the RC receiver pwm value.  Based on conditions, it turns on and off two seperate outputs via MOSFETS.  I did this for a traxxas receiver.  You can also see on the images the modification i made to the traxxas trx4 transmittter in order to enable the hidden third channel and installed a 3 position switch to control the pwm value.
 
 
 /*
